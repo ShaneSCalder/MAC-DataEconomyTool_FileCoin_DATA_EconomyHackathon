@@ -5,6 +5,10 @@
 Merkle Assured Chunking (MAC) Data Economy tool created by Merkle Meta. 
 
 - files will be updated 1 - 2 days prior to Hackathon close.
+- JSON Metadata creation tool for datasets - created to support Hackathon submission
+- https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC
+
+
 
 
 
